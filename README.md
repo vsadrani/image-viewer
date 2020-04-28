@@ -15,6 +15,7 @@ Back-End: 5000
 
 ```
 npm i
+cd client/npm i
 ```
 
 This codebase uses `prettier` for consistent code formatting and is automatically installed as a dev dependency and configured using the root file `.prettierrc`
